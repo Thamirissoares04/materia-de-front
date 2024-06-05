@@ -1,0 +1,11 @@
+.divlink 
+#ea
+header{
+    background-color: black;
+    padding: 8x; 
+}
+
+Body{ 
+    display: flex; 
+    justify-content: space-around;
+}
